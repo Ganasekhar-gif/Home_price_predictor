@@ -72,7 +72,7 @@ Result Display: Once the prediction is made, the result (estimated price) is dis
 
 # How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/yourusername/house-price-prediction.git
+   git clone https://
    cd house-price-prediction
 2. Install the required dependencies:
    pip install -r requirements.txt
